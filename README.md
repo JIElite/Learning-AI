@@ -7,6 +7,9 @@ This repo lists the recommended materials to learn AI, Machine Learning and Deep
 ![](https://idea.cs.nthu.edu.tw/~AIcoursemap/home/assets/images/roadmap/static/Course-Roadmap.svg)
 
 ### AI
+[Textbooks]
+- [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
+
 [Open Course]
 - [CS188: Intro to AI](http://ai.berkeley.edu/home.html) 
 
