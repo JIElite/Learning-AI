@@ -33,3 +33,7 @@ This repo lists the recommended materials to learn AI, Machine Learning and Deep
 ### Information Theory
 [Textbooks]
 - [Elements of Information Theory, 2nd from Cover Thomas](https://www.wiley.com/en-us/Elements+of+Information+Theory%2C+2nd+Edition-p-9780471241959)
+
+### Probability and Statistics
+[Website]
+- [Seeing Theory](http://students.brown.edu/seeing-theory/index.html#firstPage)
