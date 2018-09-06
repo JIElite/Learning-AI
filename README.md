@@ -6,6 +6,9 @@ This repo lists the recommended materials to learn AI, Machine Learning and Deep
 - [Taiwan NTHU AI learning roadmap](https://idea.cs.nthu.edu.tw/~AIcoursemap/home/index)
 ![](https://idea.cs.nthu.edu.tw/~AIcoursemap/home/assets/images/roadmap/static/Course-Roadmap.svg)
 
+### Search Dataset
+- [Google Dataset Search](https://toolbox.google.com/datasetsearch)
+
 ### AI
 [Textbooks]
 - [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
