@@ -8,6 +8,7 @@ This repo lists the recommended materials to learn AI, Machine Learning and Deep
 
 ### Search Dataset
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
+- [UCI Dataset](https://archive.ics.uci.edu/ml/datasets.html)
 
 ### AI
 [Textbooks]
